@@ -1,0 +1,3 @@
+.parsel-config-yes { font-weight:bold; color:green; }
+.parsel-config-no { font-weight:bold; color: red; }
+.parsel-debug { display:none; }
